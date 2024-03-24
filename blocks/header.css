@@ -1,0 +1,33 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 34px 148px 92px;
+  background-color: #2a2c2f;
+  text-align: center;
+  color: #ffffff;
+}
+
+.header__title {
+  margin: 90px 32px 0;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 100px;
+  max-width: 793px;
+}
+
+.header__subtitle {
+  font-size: 30px;
+  line-height: 36px;
+  max-width: 720px;
+  margin-bottom: 64px;
+}
+
+.header__cover-image {
+  width: 100%;
+  height: 100%;
+  max-width: 984px;
+  max-height: 615px;
+  filter: grayscale(1);
+}

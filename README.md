@@ -10,6 +10,8 @@ Ferramentas Utilizadas:
 
 Html5, Css3, Figma, Git
 
+https://jeanfr1.github.io/web_project_homeland/
+
 The current project focuses on covering the following key points:
 
 Working with Designs in Figma
@@ -20,3 +22,5 @@ Efficient Work with Git and Command Line
 Tools Used:
 
 HTML5, CSS3, Figma, Git
+
+https://jeanfr1.github.io/web_project_homeland/
